@@ -67,5 +67,4 @@ public class Problem13 {
         }
         return count;
     }
-
 }
