@@ -1,3 +1,6 @@
+import java.io.BufferedInputStream;
+import java.io.IOException;
+
 /**
  * 链表
  *
@@ -11,4 +14,5 @@ public class ListNode {
     ListNode(int val){
         this.val = val;
     }
+
 }
