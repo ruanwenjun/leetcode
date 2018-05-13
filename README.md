@@ -1,4 +1,4 @@
-# 记录刷leetcode的题:hocho:
+# 记录刷leetcode的题:dolphin:
 
 [我的主页](https://leetcode-cn.com/ruanwenjun/)
 
